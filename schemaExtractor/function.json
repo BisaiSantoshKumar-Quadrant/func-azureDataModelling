@@ -1,0 +1,13 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "myblob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "DISABLED/{name}",
+      "connection": "AzureWebJobsStorage"
+    }
+  ],
+  "disabled": true
+}

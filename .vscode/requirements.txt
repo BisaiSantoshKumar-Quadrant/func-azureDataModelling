@@ -1,0 +1,9 @@
+azure-functions
+azure-storage-blob
+azure-identity
+pandas
+pyarrow
+openai
+requests
+fastparquet
+openpyxl
